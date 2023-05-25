@@ -20,7 +20,7 @@
   <packaging>jar</packaging>
   <name>Multiple bands tif wms Module</name>
 
-  <!-- declare depenency on geoserver main -->
+
   <dependencies>
     <dependency>
       <groupId>org.geoserver</groupId>
